@@ -1,0 +1,15 @@
+@import '../scss/_variables.scss';
+
+.article-list {
+    padding: 0;
+    margin: 0 0 $space;
+    list-style: none;
+
+    a {
+        text-decoration: none;
+    }
+}
+
+.artile-preword {
+    margin: ($space / 2) 0 $space;
+}

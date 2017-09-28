@@ -1,0 +1,9 @@
+.article-list {
+  padding: 0;
+  margin: 0 0 1.6em;
+  list-style: none; }
+  .article-list a {
+    text-decoration: none; }
+
+.artile-preword {
+  margin: 0.8em 0 1.6em; }
